@@ -3,7 +3,7 @@
 ## Features
 
 1. vite + typescript + swr
-2. vitest + react
+2. vitest
 3. sass
 4. prettier
 
@@ -12,7 +12,7 @@
 ### 1. Clone to local
 
 ```bash
-
+git clone git@github.com:monaye/vite-vitest-react-ts-starter.git
 ```
 
 ### 2. Install dependencies
@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-## Package Installed
+## Installed Packages
 
 ### Prettier
 
