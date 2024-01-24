@@ -67,4 +67,6 @@ By default [vitest `includes`](https://vitest.dev/config/#include) `['**/*.{test
 
 ```
 npm run test
+npm run test:ui
+npm run test:coverage
 ```
