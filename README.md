@@ -32,20 +32,21 @@ npm run dev
 ### Prettier
 
 ```
-npm install prettier & eslint-config-prettier
+npm i -D prettier & eslint-config-prettier
 ```
 
 ### Testing Library Package
 
 ```
-npm install vitest jsdom --save-dev
-npm install @testing-library/react @testing-library/jest-dom --save-dev
+npm i -D vitest jsdom
+npm i -D @testing-library/react @testing-library/jest-dom
+npm i -D @vitest/ui @vitest/coverage-v8
 ```
 
 ### sass support
 
 ```
-npm install sass --save-dev
+npm i -D sass
 ```
 
 ## Added Commands
